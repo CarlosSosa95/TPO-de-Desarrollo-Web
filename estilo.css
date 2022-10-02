@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#fff9d649;
+}
+
+header{
+    background-color: black;
+}
+
+nav{
+    background-color:rgb(243, 77, 77);
+    height:50px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+li,a{
+    display: inline;
+    padding:50px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+#contacto{
+    border-color: black;
+    border: thin;
+}
+
+form{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+input{
+    margin-top: 5px;
+}
+
+footer{
+    background-color:#fff3ab;
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    
+}
